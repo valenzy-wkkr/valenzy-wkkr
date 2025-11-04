@@ -19,7 +19,7 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 ### 🚀 Algunos proyectos
 
 - 🎶 [**Reproductor de Musica**](https://valenzy-wkkr.github.io/Player_Music/) — Un Reproductor de Musica.
-- 🧠 [**Pagina de tiendas de juegos**](https://valenzy-wkkr.github.io/epic/) — Pagina de Juegos sencilla no funcional.
+- 🎮 [**Pagina de tiendas de juegos**](https://valenzy-wkkr.github.io/epic/) — Pagina de Juegos sencilla no funcional.
 
 ---
 
