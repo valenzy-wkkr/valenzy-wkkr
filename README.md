@@ -17,6 +17,7 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Algunos proyectos
