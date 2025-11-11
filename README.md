@@ -7,7 +7,7 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 
 ---
 
-### 🛠️ Lenguajes 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> Lenguajes
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,6 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 
 - [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.  
 - [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página de juegos sencilla no funcional.
-
 
 ---
 
