@@ -27,7 +27,7 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 
 - [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.  
 - [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página de juegos sencilla no funcional.
-
+- [**Clon Grand Theft Auto VI**](https://valenzy-wkkr.github.io/live-lading-gvta-vi/) — Clon de la página de Grand Theft Auto VI
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> Mis estadísticas de GitHub
