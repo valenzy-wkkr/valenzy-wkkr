@@ -1,13 +1,15 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> ¡Hola! Soy Jhonatan
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="25"/> Desarrollador de software | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="25"/> Apasionado por la tecnología y la automatización
+# <i class="fa-solid fa-hand-wave"></i> ¡Hola! Soy Jhonatan
+
+### <i class="fa-solid fa-laptop-code"></i> Desarrollador de software | <i class="fa-solid fa-globe"></i> Apasionado por la tecnología y la automatización
 
 Soy un desarrollador de software con enfoque en crear páginas limpias, rápidas y funcionales.  
 Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desarrollo.
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### <i class="fa-solid fa-toolbox"></i> Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,14 +20,14 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 
 ---
 
-### 🚀 Algunos proyectos
+### <i class="fa-solid fa-rocket"></i> Algunos proyectos
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20"/> [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página sencilla inspirada en tiendas de videojuegos.
+- <i class="fa-solid fa-music"></i> [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.
+- <i class="fa-solid fa-gamepad"></i> [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página sencilla inspirada en tiendas de videojuegos.
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### <i class="fa-solid fa-chart-simple"></i> Mis estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=valenzy-wkkr&layout=compact&theme=tokyonight)
@@ -33,6 +35,8 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 
 ---
 
-### 📫 Contacto
+### <i class="fa-solid fa-envelope"></i> Contacto
 
 📧 **Correo:** jvalenciamunoz808@gmail.com
+
+---
