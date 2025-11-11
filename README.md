@@ -20,8 +20,9 @@ Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desa
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Algunos proyectos
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="20" /> [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="20" /> [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página de juegos sencilla no funcional.
+- [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.  
+- [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página de juegos sencilla no funcional.
+
 
 ---
 
