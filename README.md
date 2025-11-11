@@ -1,45 +1,87 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" /> ¡Hola! Soy Jhonatan
+<div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Desarrollador de software | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="25" /> Apasionado por la tecnología y la automatización
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"/> ¡Hola! Soy <b>Jhonatan</b>
 
-Soy un desarrollador de software con enfoque en crear páginas limpias, rápidas y funcionales.  
-Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desarrollo.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22"/> <b>Desarrollador de Software</b> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="22"/> <b>Apasionado por la tecnología y la automatización</b>
 
----
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" alt="Tools Icon" width="25" /> Lenguajes
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/Astro-%23FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+</div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Algunos proyectos
-
-- [**Reproductor de Música**](https://valenzy-wkkr.github.io/Player_Music/) — Un reproductor de música funcional.  
-- [**Página de tienda de juegos**](https://valenzy-wkkr.github.io/epic/) — Página de juegos sencilla no funcional.
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=valenzy-wkkr&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=valenzy-wkkr&theme=tokyonight&hide_border=true)
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" /> Contacto
-
-**Correo:** jvalenciamunoz808@gmail.com
+<p align="center">
+  Soy un desarrollador enfocado en crear <b>páginas limpias, rápidas y funcionales</b>.<br>
+  Me encanta aprender nuevas tecnologías y mejorar cada día en el mundo del desarrollo.
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="30" />
-  <p><i>¡Gracias por visitar mi perfil!</i></p>
+  
+### <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="28"/> <b>Lenguajes y Tecnologías</b>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Astro-%23FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"/> <b>Algunos proyectos</b>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://valenzy-wkkr.github.io/Player_Music/">
+        🎵 <b>Reproductor de Música</b><br>
+        <sub>Un reproductor de música funcional</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://valenzy-wkkr.github.io/epic/">
+        🎮 <b>Tienda de juegos</b><br>
+        <sub>Página de juegos sencilla (no funcional)</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25"/> <b>Mis estadísticas</b>
+
+<img src="https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenzy-wkkr&layout=compact&theme=tokyonight" height="160"/>
+<br>
+<img src="https://streak-stats.demolab.com?user=valenzy-wkkr&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="25"/> <b>Contacto</b>
+
+📧 **jvalenciamunoz808@gmail.com**
+
+---
+
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="30"/>
+  <br>
+  <i>¡Gracias por visitar mi perfil!</i>
+</p>
+
 </div>
