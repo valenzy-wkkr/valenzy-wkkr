@@ -3,20 +3,20 @@
 Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnología, la programación y el aprendizaje constante.
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo: [Astro]
-- 👨‍💻 Experiencia en: [HTML, CSS, JavaScript, PHP, Astro]
-- 💡 Intereses: [Desarrollo de Paginas]
+- 🌱 Actualmente aprendiendo: Astro, Tailwind 
+- 👨‍💻 Experiencia en: HTML, CSS, JavaScript, PHP, Astro
+- 💡 Intereses: Desarrollo de Paginas
 - 🛠️ Proyectos destacados:  
-  - [Nombre-del-proyecto](enlace) — breve descripción  
+  - Epic (https://valenzy-wkkr.github.io/epic/) 
   - [Otro-proyecto](enlace) — breve descripción
 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
-- Email: [jvalenciamunoz808@gmail.com]
-- LinkedIn: [www.linkedin.com/in/jhonatan-valencia-08b113307]  
-- Twitter: [tu-twitter]
+- Email: jvalenciamunoz808@gmail.com
+- LinkedIn: www.linkedin.com/in/jhonatan-valencia-08b113307
+- Twitter: https://x.com/valenzywkkr?t=tgxLmKccMCU0tAJR_AB9Sg&s=09
 
 ## ⭐️ Lenguajes y herramientas
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
