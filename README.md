@@ -27,8 +27,6 @@ Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnolo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor IDE](https://img.shields.io/badge/Cursor-1a1a1a?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
