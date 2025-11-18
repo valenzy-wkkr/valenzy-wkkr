@@ -7,8 +7,9 @@ Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnolo
 - 👨‍💻 Experiencia en: HTML, CSS, JavaScript, PHP, Astro
 - 💡 Intereses: Desarrollo de Paginas
 - 🛠️ Proyectos destacados:  
-  - Epic (https://valenzy-wkkr.github.io/epic/) 
-  - [Otro-proyecto](enlace) — breve descripción
+  - Epic Play (https://valenzy-wkkr.github.io/epic/)
+  - Player_Music (https://valenzy-wkkr.github.io/Player_Music/) - Un reproductor de Musica hecha en React
+  - live-lading-gvta-vi (https://valenzy-wkkr.github.io/live-lading-gvta-vi/) - Un Clon de la pagina de GTA VI
 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=radical)
