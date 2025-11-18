@@ -18,6 +18,8 @@ Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnolo
 - Email: jvalenciamunoz808@gmail.com
 - LinkedIn: www.linkedin.com/in/jhonatan-valencia-08b113307
 - Twitter: https://x.com/valenzywkkr?t=tgxLmKccMCU0tAJR_AB9Sg&s=09
+- Instagram: https://www.instagram.com/valenzywkkr?utm_source=qr&igsh=MWUzNmVwOGdmczZ2dw==
+
 
 ## ⭐️ Lenguajes y herramientas
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
