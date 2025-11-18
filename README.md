@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Jhonatan]
 
-<!--
-**valenzy-wkkr/valenzy-wkkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnología, la programación y el aprendizaje constante.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🌱 Actualmente aprendiendo: [Tecnologías que estás aprendiendo]
+- 👨‍💻 Experiencia en: [Lenguajes/principales tecnologías]
+- 💡 Intereses: [Tus intereses, por ejemplo: IA, desarrollo móvil, web, videojuegos...]
+- 🛠️ Proyectos destacados:  
+  - [Nombre-del-proyecto](enlace) — breve descripción  
+  - [Otro-proyecto](enlace) — breve descripción
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=radical)
+
+## 📫 Cómo contactarme
+- Email: [tu-email@email.com]
+- LinkedIn: [tu-linkedin]  
+- Twitter: [tu-twitter]
+
+## ⭐️ Lenguajes y herramientas
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+> *“La tecnología es mejor cuando une a las personas.”*  
+> *– Matt Mullenweg*
+
