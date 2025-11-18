@@ -3,9 +3,9 @@
 Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnología, la programación y el aprendizaje constante.
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo: [Tecnologías que estás aprendiendo]
-- 👨‍💻 Experiencia en: [Lenguajes/principales tecnologías]
-- 💡 Intereses: [Tus intereses, por ejemplo: IA, desarrollo móvil, web, videojuegos...]
+- 🌱 Actualmente aprendiendo: [Astro]
+- 👨‍💻 Experiencia en: [HTML, CSS, JavaScript, PHP, Astro]
+- 💡 Intereses: [Desarrollo de Paginas]
 - 🛠️ Proyectos destacados:  
   - [Nombre-del-proyecto](enlace) — breve descripción  
   - [Otro-proyecto](enlace) — breve descripción
