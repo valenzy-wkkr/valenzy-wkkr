@@ -14,6 +14,8 @@ Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnolo
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valenzy-wkkr&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valenzy-wkkr&layout=compact&theme=radical)
+
 ## 📫 Cómo contactarme
 - Email: jvalenciamunoz808@gmail.com
 - LinkedIn: www.linkedin.com/in/jhonatan-valencia-08b113307
