@@ -26,7 +26,7 @@ Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnolo
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=white)
 
 ---
