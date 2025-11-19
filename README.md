@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Jhonatan]
+# 👋 ¡Hola! Soy Jhonatan
 
 Bienvenido(a) a mi perfil de GitHub. Soy desarrollador apasionado por la tecnología, la programación y el aprendizaje constante.
 
